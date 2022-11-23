@@ -1,0 +1,107 @@
+
+header.logo {
+    background-color: rgba(255, 255, 255, 0.350);
+    height: 142px; 
+    border: 1.95px solid rgb(255, 255, 255);
+}
+
+body.fundo {
+    
+    background-attachment: scroll;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
+
+}
+
+nav.imagensnft {
+    object-position: left;
+    border: 1.95px solid rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.350);
+}
+
+
+article.geral {
+    
+    object-position: left;
+    border: 1.95px solid rgb(255, 255, 255);
+    background-color: rgba(3, 3, 3, 0.800);
+
+}
+
+.texto {
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+
+
+form.formulario1 {
+    
+    background-size: inherit; 
+    height: fit-content;
+    width: fit-content;
+}
+
+form.formulario2 {
+    
+    background-size: inherit; 
+    height: fit-content;
+    width: fit-content;
+}
+
+form.formulario3 {
+    
+    background-size: inherit; 
+    height: fit-content;
+    width: fit-content;
+}
+
+form.inseriremail {
+    
+    background-size: inherit; 
+    height: fit-content;
+    width: fit-content;
+}
+
+div.extra1 {
+    
+    background-size: inherit; 
+    height: fit-content;
+    width: fit-content;
+
+}
+
+div.extra2 {
+       
+    background-size: inherit; 
+    height: fit-content;
+    width: fit-content; 
+}
+
+div.extra3 {
+    
+    background-size: inherit; 
+    height: fit-content;
+    width: fit-content;    
+}
+
+
+footer.rodape {
+    background-color: rgb(255, 255, 255);
+    height: 49px; 
+    width: 1330px;  
+    background-position: center;
+    text-align: inherit;
+}
+
+.texto2 {
+    color: rgb(0, 0, 0);
+    font-size: 12.49px;
+    text-align: center;
+}
+
+
+
+
+
